@@ -1,4 +1,4 @@
-# Web Design / July 2015 / Group 1
+# Web Design / July 2015 / Group 2
 
 ### References:
 * [World Wide Web Consortium (W3C)](http://www.w3c.org)
